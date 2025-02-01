@@ -21,6 +21,12 @@ sections:
         size: large
         variant: outlined
         color: primary
+      - type: Button
+        label: Test
+        url: /
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/IMG_0122.jpeg
